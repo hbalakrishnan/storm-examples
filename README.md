@@ -1,6 +1,6 @@
 # storm-tutorial using pubnub
 
-Its a simple example which simulates sales event and publish to pubnub channel. Then a simple storm topology which has a pubnub spout which consumes messages from the channel which aggregates the sales event.
+Its a simple example which simulates sales event and publish to pubnub channel. This storm topology which has a pubnub spout  consumes messages from the channel which aggregates the sales event periodically.
 
 ## Steps to Run
 1. clone this repo
